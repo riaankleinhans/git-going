@@ -2,3 +2,4 @@
 Let's GIT Going
 
 * Riaan Kleinhans
+* Casey
