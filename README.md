@@ -1,4 +1,3 @@
 # git-going
 Let's GIT Going
-
-* Riaan Kleinhans
+* Rainbow Trout like bugs
