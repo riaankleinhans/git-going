@@ -2,4 +2,4 @@
 Let's GIT Going
 
 * Riaan Kleinhans
-* Casey
+* Casey ( no last name needed)
